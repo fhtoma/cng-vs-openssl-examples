@@ -1,2 +1,3 @@
 # cng-vs-openssl-examples
  
+This project presents implementations of **AES (ECB, CBC, GCM)** and **DSA signatures** using [OpenSSL](https://docs.openssl.org/3.4/) in C and [Windows Cryptography API: Next Generation (CNG)](https://learn.microsoft.com/en-us/windows/win32/seccng/cng-portal) in C++. The repository focuses on **standards-compliant** cryptographic implementations based on official documentation and recommended API usage patterns, providing practical examples of equivalent operations between environments.
